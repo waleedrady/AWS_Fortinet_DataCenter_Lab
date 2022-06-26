@@ -6,7 +6,7 @@ Source Code for this Module (https://github.com/WEEMR/terraform-aws-Fortinet_Dat
 
 Terraform Registery         (https://registry.terraform.io/modules/WEEMR/Fortinet_DataCenter_Lab/aws)
 
-![image](https://user-images.githubusercontent.com/82145296/175827673-4915827e-0a9f-453e-b489-f86ebfd60e7c.png)
+![image](https://user-images.githubusercontent.com/82145296/175827686-dbee467c-e01f-49af-87b9-cda555bcf24b.png)
 
 The module will create the below resources:
 
